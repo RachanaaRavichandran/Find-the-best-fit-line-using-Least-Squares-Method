@@ -52,6 +52,7 @@ plt.ylabel("Y")
 plt.legend()
 plt.title("Univariate Linear Regression")
 plt.show()
+
 Developed by:R.Rachanaa 
 RegisterNumber:212225040322
 ```
